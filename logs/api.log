@@ -1,0 +1,55 @@
+2026-07-06 13:03:23,010 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.11.95:5000
+2026-07-06 13:03:23,010 INFO [33mPress CTRL+C to quit[0m
+2026-07-06 13:03:23,010 INFO  * Restarting with stat
+2026-07-06 13:03:23,539 WARNING  * Debugger is active!
+2026-07-06 13:03:23,555 INFO  * Debugger PIN: 100-459-700
+2026-07-06 13:04:28,577 INFO 127.0.0.1 - - [06/Jul/2026 13:04:28] "GET / HTTP/1.1" 200 -
+2026-07-06 13:04:33,190 INFO 127.0.0.1 - - [06/Jul/2026 13:04:33] "GET / HTTP/1.1" 200 -
+2026-07-06 13:04:35,159 INFO 127.0.0.1 - - [06/Jul/2026 13:04:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-07-06 14:10:56,534 INFO Creating log file for testing.
+2026-07-06 14:10:56,535 INFO Entry One
+2026-07-06 14:10:56,536 INFO Entry Two
+2026-07-06 14:10:56,536 INFO Unit test log message
+2026-07-06 14:22:00,977 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.117:5000
+2026-07-06 14:22:00,977 INFO [33mPress CTRL+C to quit[0m
+2026-07-06 14:22:00,978 INFO  * Restarting with stat
+2026-07-06 14:22:01,601 WARNING  * Debugger is active!
+2026-07-06 14:22:01,603 INFO  * Debugger PIN: 129-224-351
+2026-07-06 14:22:09,760 INFO 127.0.0.1 - - [06/Jul/2026 14:22:09] "GET / HTTP/1.1" 200 -
+2026-07-06 14:22:19,284 INFO 127.0.0.1 - - [06/Jul/2026 14:22:19] "GET / HTTP/1.1" 200 -
+2026-07-06 14:23:32,823 INFO Creating log file for testing.
+2026-07-06 14:23:32,824 INFO Entry One
+2026-07-06 14:23:32,825 INFO Entry Two
+2026-07-06 14:23:32,825 INFO Unit test log message
+2026-07-06 14:27:33,727 INFO Creating log file for testing.
+2026-07-06 14:27:33,728 INFO Entry One
+2026-07-06 14:27:33,728 INFO Entry Two
+2026-07-06 14:27:33,729 INFO Unit test log message
+2026-07-06 14:30:00,575 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.117:5000
+2026-07-06 14:30:00,575 INFO [33mPress CTRL+C to quit[0m
+2026-07-06 14:30:00,576 INFO  * Restarting with stat
+2026-07-06 14:30:01,121 WARNING  * Debugger is active!
+2026-07-06 14:30:01,122 INFO  * Debugger PIN: 129-224-351
+2026-07-06 14:30:10,260 INFO 127.0.0.1 - - [06/Jul/2026 14:30:10] "GET / HTTP/1.1" 200 -
+2026-07-06 14:30:28,786 INFO 127.0.0.1 - - [06/Jul/2026 14:30:28] "GET / HTTP/1.1" 200 -
+2026-07-06 14:31:38,043 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.117:5000
+2026-07-06 14:31:38,044 INFO [33mPress CTRL+C to quit[0m
+2026-07-06 14:31:38,045 INFO  * Restarting with stat
+2026-07-06 14:31:38,614 WARNING  * Debugger is active!
+2026-07-06 14:31:38,614 INFO  * Debugger PIN: 129-224-351
+2026-07-06 14:31:45,709 INFO 127.0.0.1 - - [06/Jul/2026 14:31:45] "GET / HTTP/1.1" 200 -
+2026-07-06 14:31:50,751 INFO 127.0.0.1 - - [06/Jul/2026 14:31:50] "GET / HTTP/1.1" 200 -
+2026-07-06 14:32:23,316 INFO 127.0.0.1 - - [06/Jul/2026 14:32:23] "GET / HTTP/1.1" 200 -
+2026-07-06 14:32:24,557 INFO 127.0.0.1 - - [06/Jul/2026 14:32:24] "GET / HTTP/1.1" 200 -
